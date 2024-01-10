@@ -42,6 +42,8 @@
 
 [![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=htirawi&show_icons=true&locale=en&layout=compact)](https://github.com/htirawi/github-readme-stats)
 
+![Hussein's Leetcode stats](https://leetcard.jacoblin.cool/husseinti?theme=light&hide=ranking)
+
 [instagram]: https://www.instagram.com/htirawi/
 [twitter]: https://twitter.com/htirawi
 [linkedIn]: https://www.linkedin.com/in/htirawi
