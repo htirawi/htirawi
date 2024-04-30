@@ -20,7 +20,7 @@
 
 <details>
  <summary>
-  <h6> 💻 My Skillset </h6>
+  <h4> 💻 My Skillset </h4>
   <p>View all the languages, frameworks, and tech that I have worked with and have an understanding of.</p>
  </summary>
 <div align='center'>
