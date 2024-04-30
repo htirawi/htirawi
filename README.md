@@ -18,6 +18,102 @@
 
 ---
 
+<details>
+ <summary>
+  <h6> 💻 My Skillset </h6>
+  <p>View all the languages, frameworks, and tech that I have worked with and have an understanding of.</p>
+ </summary>
+<div align='center'>
+
+ ### Languages
+
+
+ ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=white&labelColor=grey)
+ ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=white&labelColor=grey)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript&style=plastic&logoColor=white&labelColor=grey)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript&logoColor=white&labelColor=grey)
+ ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python&logoColor=white&labelColor=grey)
+ 
+### Query Languages
+
+![SQL](https://img.shields.io/badge/-SQL-black?style=plastic&logo=sql&logoColor=white&labelColor=grey)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=plastic&logo=graphql&logoColor=white&labelColor=grey)
+
+### Frameworks & Libraries
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black.svg?style=plastic&logo=bootstrap&logoColor=white&labelColor=grey)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-black?style=plastic&logo=tailwind-css&logoColor=white&labelColor=grey)
+![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=plastic&logo=MUI&logoColor=white&labelColor=grey)
+![React.js](https://img.shields.io/badge/-React-black?style=plastic&logo=react&logoColor=white&labelColor=grey)
+![Redux](https://img.shields.io/badge/-Redux-black?style=plastic&logo=redux&logoColor=white&labelColor=grey)
+![Recoil](https://img.shields.io/badge/-Recoil-black?style=plastic&logo=recoil&logoColor=white&labelColor=grey)
+![Next.js](https://img.shields.io/badge/-Next-black?style=plastic&logo=nextdotjs&logoColor=white&labelColor=grey)
+![Express.js](https://img.shields.io/badge/-Express.js-black.svg?style=plastic&logo=express&logoColor=white&labelColor=grey)
+ 
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql&logoColor=white&labelColor=grey)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb&logoColor=white&labelColor=grey)
+ 
+### Version Control
+
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=grey)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&logoColor=white&labelColor=grey)
+ 
+### IDEs
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=white&labelColor=grey)
+![WebStorm](https://img.shields.io/badge/WebStorm-black.svg?style=plastic&logo=webStorm&logoColor=white&labelColor=grey)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=plastic&logo=pycharm&logoColor=white&labelColor=grey)
+
+### Planning Tools
+ 
+![Trello](https://img.shields.io/badge/-Trello-black?style=plastic&logo=Trello&logoColor=white&labelColor=grey)
+![Jira](https://img.shields.io/badge/-Jira-black?style=plastic&logo=jira&logoColor=white&labelColor=grey)
+![Figma](https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=white&labelColor=grey)
+ 
+### Development Tools
+ 
+![gitignore.io](https://img.shields.io/badge/-gitignore.io-black?style=plastic&logo=gitignore.io&logoColor=white&labelColor=grey)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-black?style=plastic&logo=google-chrome&logoColor=white&labelColor=grey)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=plastic&logo=ongoose&logoColor=white&labelColor=grey)
+
+### Runtime
+
+![Nodejs](https://img.shields.io/badge/-node.js-black?style=plastic&logo=Node.js&logoColor=white&labelColor=grey)
+![NPM](https://img.shields.io/badge/-npm-black.svg?style=plastic&logo=npm&logoColor=white&labelColor=grey)
+![Yarn](https://img.shields.io/badge/-yarn-black.svg?style=plastic&logo=yarn&logoColor=white&labelColor=grey)
+
+### Testing
+
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=plastic&logo=playwright&logoColor=white&labelColor=grey)
+![Jest](https://img.shields.io/badge/-Jest-black?style=plastic&logo=jest&logoColor=white&labelColor=grey)
+![Mocha](https://img.shields.io/badge/-Mocha-black?style=plastic&logo=mocha&logoColor=white&labelColor=grey)
+![Chai](https://img.shields.io/badge/-Chai-black?style=plastic&logo=chai&logoColor=white&labelColor=grey)
+
+### Tools
+ 
+![REST Api](https://img.shields.io/badge/-REST_Api-black?style=plastic&logo=restapi&logoColor=white&labelColor=grey)
+![JSON](https://img.shields.io/badge/-JSON-black?style=plastic&logo=JSON&logoColor=white&labelColor=grey)
+![PostMan](https://img.shields.io/badge/-PostMan-black?style=plastic&logo=postman&logoColor=white&labelColor=grey)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=plastic&logo=socket.io&logoColor=white&labelColor=grey)
+![RegEx](https://img.shields.io/badge/-RegEx-black?style=plastic&logo=regex&logoColor=white&labelColor=grey)
+ 
+### I've Deployed with
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=plastic&logo=github&logoColor=white&labelColor=grey)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=plastic&logo=vercel&logoColor=white&labelColor=grey)
+ 
+### Platforms 
+
+![MacOS](https://img.shields.io/badge/-macOS-black?style=plastic&logo=apple&logoColor=white&labelColor=grey)
+![Windows](https://img.shields.io/badge/-Windows-black?style=plastic&logo=windows&logoColor=white&labelColor=grey)
+
+</div>
+</details>
+
+---
+
 ### Languages and Tools:
 
 <p align="left"> 
